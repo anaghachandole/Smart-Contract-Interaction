@@ -13,7 +13,7 @@ We have integrated Frontend with the smart contract. By integrating the contract
 npm install
 ```
 ```
-npx hardhat
+npx --save --include=dev hardhat
 ```
 
 ### Executing program
